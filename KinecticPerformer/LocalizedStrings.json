@@ -1,0 +1,82 @@
+[
+  {
+    "Key": "KineticPerformer_Name",
+    "ProcessTemplates": false,
+    "deDE": "Kinetic Performer",
+    "enGB": "Kinetic Performer",
+    "esES": "Kinetic Performer",
+    "frFR": "Kinetic Performer",
+    "itIT": "Kinetic Performer",
+    "ptBR": "Kinetic Performer",
+    "ruRU": "Kinetic Performer",
+    "zhCN": "Kinetic Performer"
+  },
+  {
+    "Key": "KineticPerformer_Desc",
+    "deDE": "Some kineticists uses their power in wondrous and magical performances.",
+    "enGB": "Some kineticists uses their power in wondrous and magical performances.",
+    "esES": "Some kineticists uses their power in wondrous and magical performances.",
+    "frFR": "Some kineticists uses their power in wondrous and magical performances.",
+    "itIT": "Some kineticists uses their power in wondrous and magical performances.",
+    "ptBR": "Some kineticists uses their power in wondrous and magical performances.",
+    "ruRU": "Some kineticists uses their power in wondrous and magical performances.",
+    "zhCN": "Some kineticists uses their power in wondrous and magical performances."
+  },
+  {
+    "Key": "KineticPerformanceDesctriptorFeature_Name",
+    "ProcessTemplates": false,
+    "deDE": "Kinetic Performance",
+    "enGB": "Kinetic Performance",
+    "esES": "Kinetic Performance",
+    "frFR": "Kinetic Performance",
+    "itIT": "Kinetic Performance",
+    "ptBR": "Kinetic Performance",
+    "ruRU": "Kinetic Performance",
+    "zhCN": "Kinetic Performance"
+  },
+  {
+    "Key": "KineticPerformanceDesctriptorFeature_Desc",
+    "deDE": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "enGB": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "esES": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "frFR": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "itIT": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "ptBR": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "ruRU": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents.",
+    "zhCN": "A Kinetic Performer uses her {g|Encyclopedia:Charisma}Charisma{/g} modifier instead of her {g|Encyclopedia:Constitution}Constitution{/g} modifier to determine her {g|Encyclopedia:Damage}damage{/g} with wild talents, the {g|Encyclopedia:DC}DCs{/g} of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Concentration}concentration{/g} {g|Encyclopedia:Check}checks{/g} for wild talents, and other Constitution-based effects of all her wild talents."
+  },
+  {
+    "Key": "KineticPerformerBurnFeature_Name",
+    "ProcessTemplates": false,
+    "deDE": "Performer`s Burn",
+    "enGB": "Performer`s Burn",
+    "esES": "Performer`s Burn",
+    "frFR": "Performer`s Burn",
+    "itIT": "Performer`s Burn",
+    "ptBR": "Performer`s Burn",
+    "ruRU": "Performer`s Burn",
+    "zhCN": "Performer`s Burn"
+  },
+  {
+    "Key": "KineticPerformerBurnFeature_Desc",
+    "deDE": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "enGB": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "esES": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "frFR": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "itIT": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "ptBR": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "ruRU": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control.",
+    "zhCN": "At 1st level, a kineticist can overexert herself to channel more power than normal, pushing past the limit of what is safe for her mind by accepting burn. Some of her wild talents allow her to accept burn in exchange for a greater effect, while others require her to accept a certain amount of burn to use that talent at all. For each point of burn she accepts –2 on Charisma-based {g|Encyclopedia:Skills}skill checks{/g}.\n A kineticist can accept only 1 point of burn per {g|Encyclopedia:Combat_Round}round{/g}. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A kineticist can\u0027t choose to accept burn if it would put her total number of points of burn higher than her {g|Encyclopedia:Charisma}Charisma{/g} modifier), though she can be forced to accept more burn from a source outside her control."
+  },
+  {
+    "Key": "SpellBook_Name",
+    "deDE": "Kinetic Performer",
+    "enGB": "Kinetic Performer",
+    "esES": "Kinetic Performer",
+    "frFR": "Kinetic Performer",
+    "itIT": "Kinetic Performer",
+    "ptBR": "Kinetic Performer",
+    "ruRU": "Kinetic Performer",
+    "zhCN": "Kinetic Performer"
+  }
+]

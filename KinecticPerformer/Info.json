@@ -1,0 +1,12 @@
+﻿{
+  "Id": "KineticPerformer",
+  "DisplayName": "Kinetic Performer",
+  "Author": "",
+  "Version": "1.1.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "KineticPerformer.dll",
+  "EntryMethod": "KineticPerformer.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
